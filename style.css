@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    margin: 0
+}
+div {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+.info-animals {
+    text-align: initial;
+    background-color: greenyellow;
+    border-radius: 20px;
+    border-style:solid;
+    font-family: monospace;
+    list-style: upper-roman;
+}
+.more {
+    border-style: solid;
+    font-family: monospace;
+    padding-left: 30px;
+    padding-right: 30px
+}
+footer {
+    position:absolute
+    background-color gray;
+
+}
